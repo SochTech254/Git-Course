@@ -1,3 +1,5 @@
 print("Hello World!");
 take input from user 
 and add values
+
+submit data to the database
