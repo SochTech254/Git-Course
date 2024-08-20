@@ -1,2 +1,0 @@
-username="soch"
-passwd="captain_Stevo@23"
